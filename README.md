@@ -1,3 +1,4 @@
+Hi.
 I'm still trying to learn how to start developping 😐
 
 (not an engineer, nor a developper. Just a random guy how have an idea in mind)
